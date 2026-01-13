@@ -46,7 +46,7 @@ function showPages(pageId) {
   });
 }
 
-showPages("profile");
+showPages("home");
 
 // Click to 'home' page
 const homePage = headerEl.querySelector("h1");
